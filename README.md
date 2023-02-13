@@ -1,8 +1,8 @@
 # Surfs_Up
-##Overview of the statistical analysis:
+## Overview of the statistical analysis:
 In order to go through the plans of opening a surf shop in Oahu, W. Avy wants to analyze temperature data for the months of June and December to determine whether the new business is sustainable year around. 
 
-##Results:
+## Results:
 ![This is an image](June_temp.png)
 ![This is an image](Dec_temp.png)
 
