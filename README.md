@@ -9,6 +9,6 @@ In order to go through the plans of opening a surf shop in Oahu, W. Avy wants to
 * two
 * three
 
-##Summary:
+## Summary:
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
